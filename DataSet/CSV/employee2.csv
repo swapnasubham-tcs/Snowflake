@@ -1,0 +1,8 @@
+﻿EMPLOYEE_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE_NUMBER,HIRE_DATE,JOB_ID,SALARY,COMMISSION_PCT,MANAGER_ID,DEPARTMENT_ID
+301,Swapnasubham,Das,swapnasubham.das@impetus.com,515.123.4567,6/17/2010,AD_PRES,24000,0,103,90
+302,Ankit,Rathore,ankit.rathore@impetus.com,515.123.4568,6/18/2010,AD_VP,17000,0,100,90
+303,Jatin,Jain,jatin.jain@impetus.com,515.123.4569,6/19/2010,AD_VP,17000,0,100,90
+304,Umang,Agarwal,umang.agarwal@impetus.com,590.423.4567,6/20/2010,IT_PROG,9000,0,102,60
+305,Rishab,Shyam,rishab.shyam@impetus.com,590.423.4568,6/21/2010,IT_PROG,6000,0,103,60
+306,Somdutta,De,somdutta.de@impetus.com,590.423.4569,6/22/2011,IT_PROG,4800,0,103,60
+307,Soumen,Maity,soumen.maity@impetus.com,590.423.4560,6/23/2011,IT_PROG,4800,0,103,60

@@ -1,0 +1,52 @@
+  {
+    "EMPLOYEE_ID": 401,
+    "FIRST_NAME": "Sumit",
+    "LAST_NAME": "Gandhi",
+    "EMAIL": "sg@impetus.com",
+    "PHONE_NUMBER": "515.123.4567",
+    "HIRE_DATE": "6/17/2010",
+    "JOB_ID": "AD_PRES",
+    "SALARY": 24000,
+    "COMMISSION_PCT": 0,
+    "MANAGER_ID": 103,
+    "DEPARTMENT_ID": 90
+  },
+  {
+    "EMPLOYEE_ID": 402,
+    "FIRST_NAME": "Pranshu",
+    "LAST_NAME": "Kansal",
+    "EMAIL": "pk@impetus.com",
+    "PHONE_NUMBER": "515.123.4568",
+    "HIRE_DATE": "6/18/2010",
+    "JOB_ID": "AD_VP",
+    "SALARY": 17000,
+    "COMMISSION_PCT": 0,
+    "MANAGER_ID": 100,
+    "DEPARTMENT_ID": 90
+  },
+  {
+    "EMPLOYEE_ID": 403,
+    "FIRST_NAME": "Aayushi",
+    "LAST_NAME": "Agarwal",
+    "EMAIL": "aa@impetus.com",
+    "PHONE_NUMBER": "515.123.4569",
+    "HIRE_DATE": "6/19/2010",
+    "JOB_ID": "AD_VP",
+    "SALARY": 17000,
+    "COMMISSION_PCT": 0,
+    "MANAGER_ID": 100,
+    "DEPARTMENT_ID": 90
+  },
+  {
+    "EMPLOYEE_ID": 404,
+    "FIRST_NAME": "Abhishek",
+    "LAST_NAME": "Kumar",
+    "EMAIL": "ak@impetus.com",
+    "PHONE_NUMBER": "590.423.4567",
+    "HIRE_DATE": "6/20/2010",
+    "JOB_ID": "IT_PROG",
+    "SALARY": 9000,
+    "COMMISSION_PCT": 0,
+    "MANAGER_ID": 102,
+    "DEPARTMENT_ID": 60
+  }
