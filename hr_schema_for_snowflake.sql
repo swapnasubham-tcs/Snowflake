@@ -1,3 +1,8 @@
+-- Creating Database --
+CREATE OR REPLACE DATABASE COMPANY;
+-- Creating Schema --
+CREATE OR REPLACE SCHEMA HR;
+
 -- Create Table in Snowflake --
 
 CREATE OR REPLACE TABLE COMPANY.HR.regions
