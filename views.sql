@@ -2562,6 +2562,7 @@ CREATE OR REPLACE MATERIALIZED VIEW COMPANY.HR.IT_SALES
     );
     
 -- Selecting MVIEW --
+-- Testing IT_SALES --
 SELECT * FROM COMPANY.HR.IT_SALES;
 
 -- Check Defination --
