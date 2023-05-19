@@ -2601,5 +2601,6 @@ INSERT INTO employees VALUES
         );
 
 -- Refresh History --
+-- Testing Refresh History --
 SELECT * FROM TABLE(COMPANY.INFORMATION_SCHEMA.MATERIALIZED_VIEW_REFRESH_HISTORY());
     
